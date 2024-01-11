@@ -1,1 +1,1 @@
-# django-samples
+soon it will be available.
