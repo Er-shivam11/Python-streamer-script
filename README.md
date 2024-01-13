@@ -13,4 +13,7 @@ This script uses OpenCV to stream video from a camera.
 Make sure you have the following installed:
 
 - Python 
-- OpenCV 
+- OpenCV
+
+## To run
+```python filename.py```
