@@ -16,4 +16,4 @@ Make sure you have the following installed:
 - OpenCV
 
 ## To run
-```python filename.py```
+```python streamer.py```
